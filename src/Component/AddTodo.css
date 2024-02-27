@@ -1,0 +1,30 @@
+form{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    border-radius: 5px;
+    height: 50px;
+    width: 300px;
+    margin-top: 120px;
+    background-color: #ef1dcc40;
+    margin-right: 60px;
+    position: absolute;
+    right: 231px;
+    top: 23px;
+}
+
+form input{
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+        
+}
+
+form button{
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-left: 5px;
+}
+

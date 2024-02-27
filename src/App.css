@@ -1,0 +1,9 @@
+.heading{
+    position: absolute;
+    right: 310px;
+    font-size: 3.5rem;
+    top: 20px;
+    color: rgba(255, 0, 0, 0.635);
+    font-family: cursive;
+    font-weight: 900;
+}
